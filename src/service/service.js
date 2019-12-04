@@ -24,4 +24,4 @@ export async function allCustomers() {
     .catch(console.error);
 }
 
-export const API_BASE_URL = "http://ec2-13-127-103-68.ap-south-1.compute.amazonaws.com:8081/";
+export const API_BASE_URL = "http://localhost:8080/";
