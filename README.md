@@ -1,3 +1,9 @@
+## This application is a follow up to the OnlineBanking BE project.
+Its a React js based front end application that allows User to sign up, login and perform Banking operations.
+
+Also provide ROLE based access to admin Dashboard where admin can manage the users.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
